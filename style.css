@@ -164,7 +164,7 @@ header {
   display: flex;
   flex-direction: row;
   width: 84%;
-  height: 500px;
+  height: 535px;
   margin: 25px auto;
 }
 
@@ -175,7 +175,7 @@ header {
 }
 
 .box__left__title_1 {
-  font-size: 77px;
+  font-size: 90px;
   text-transform: capitalize;
 }
 
